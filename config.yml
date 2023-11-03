@@ -19,9 +19,9 @@ menu:
       weight: 10
 
 params:
-  title: MotebPowfuckaya - Personal Page
+  title: powfu - Personal Page
   description: personal website for powfuck
-  author: It's zarneyva
+  author: It's iPowfu
   images: [images/gh-profile.jpg]
   ShowBreadCrumbs: true
   ShowReadingTime: true
@@ -49,7 +49,7 @@ params:
     - name: twitter
       url: https://twitter.com/vinds71
     - name: telegram
-      url: https://t.me/dvinchii
+      url: https://t.me/still_trash
 
   fuseOpts:
     isCaseSensitive: false
