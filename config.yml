@@ -1,6 +1,6 @@
-baseURL: "https://motebaya.github.io"
+baseURL: "https://powfuck.github.io"
 languageCode: en-us
-title: Motebaya - Portofolio
+title: Powfuck - Portofolio
 theme: PaperMod
 
 menu:
@@ -19,8 +19,8 @@ menu:
       weight: 10
 
 params:
-  title: Motebaya - Personal Page
-  description: personal website for motebaya
+  title: MotebPowfuckaya - Personal Page
+  description: personal website for powfuck
   author: It's daviana
   images: [images/gh-profile.jpg]
   ShowBreadCrumbs: true
@@ -31,7 +31,7 @@ params:
 
   profileMode:
     enabled: true
-    title: motebaya
+    title: powfuck
     subtitle: a lazy guy who made it only when need it
     imageUrl: images/gh-profile.jpg
     imageTitle: image-profile
@@ -45,7 +45,7 @@ params:
     - name: facebook
       url: #
     - name: "github"
-      url: https://github.com/motebaya
+      url: https://github.com/powfuck
     - name: twitter
       url: https://twitter.com/vinds71
     - name: telegram

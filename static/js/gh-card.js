@@ -71,7 +71,7 @@ window.addEventListener("DOMContentLoaded", async function () {
     }
 
     // custom only for my repos
-    const repos = await get("https://api.github.com/users/motebaya/repos");
+    const repos = await get("https://api.github.com/users/powfuck/repos");
     const emojis = await get("https://api.github.com/emojis");
 
     const theme = getTheme();
