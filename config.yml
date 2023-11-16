@@ -32,7 +32,7 @@ params:
   profileMode:
     enabled: true
     title: Powfu Haruchiyo
-    subtitle: a lazy guy who made it only when need it
+    subtitle: just ignore what I did.
     imageUrl: images/gh-profile.jpg
     imageTitle: image-profile
     imageWidth: 140
